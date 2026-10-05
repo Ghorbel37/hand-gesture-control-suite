@@ -60,7 +60,7 @@ cd hand-gesture-control-suite
 
 2. Install dependencies:
 ```bash
-pip install mediapipe opencv-python pyautogui pycaw comtypes numpy
+pip install -r requirements.txt
 ```
 
 ## 💻 Usage
