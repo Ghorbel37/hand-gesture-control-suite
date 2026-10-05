@@ -1,0 +1,9 @@
+# mediapipe is pinned: 0.10.30 and later removed the mp.solutions API the notebooks use
+# (0.10.21 supports Python 3.9 to 3.12)
+mediapipe==0.10.21
+opencv-python
+numpy
+pyautogui
+# Volume control (Windows only)
+pycaw; sys_platform == "win32"
+comtypes; sys_platform == "win32"
