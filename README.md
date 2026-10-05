@@ -176,7 +176,7 @@ This project was developed as part of a Computer Vision course to demonstrate pr
 
 ## 📄 License
 
-This project is open-source and available for educational purposes.
+This project is licensed under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
