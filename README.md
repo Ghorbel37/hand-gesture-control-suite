@@ -1,5 +1,7 @@
 # Hand Gesture Control Suite
 
+*Built for a computer vision course (2024).*
+
 A comprehensive hand gesture recognition and control system built with **MediaPipe** and **OpenCV**. This project demonstrates various real-world applications of computer vision for hands-free computer control.
 
 ## 🎯 Features
